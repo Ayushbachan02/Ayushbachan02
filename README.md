@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayusg Bachan</h1>
+<h1 align="center">Hi 👋, I'm Ayush Bachan</h1>
 <h3 align="center">Web developer | UI/UX | Blockchain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushbachan02&label=Profile%20views&color=0e75b6&style=flat" alt="ayushbachan02" /> </p>
